@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: green;
+}
+.section1{
+    background-image: url(images/pexels-poodles-doodles-1458916.jpg);
+    background-size: auto;
+    
+}
+h1{
+    background-color: red;
+}
